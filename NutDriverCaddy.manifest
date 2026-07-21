@@ -1,0 +1,12 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"script",
+	"author":	"Tim Heald",
+	"description":	{
+		"":	"Nut driver caddy for Klein nut drivers"
+	},
+	"version":	"",
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"iconFilename":	"ScriptIcon.svg"
+}
